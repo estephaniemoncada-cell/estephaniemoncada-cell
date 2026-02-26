@@ -1,4 +1,5 @@
-## Hola soy Carolina Moncada 👋
+<div align="center">
+<h1 align="center">Hola soy Carolina Moncada 👋
 
 
 <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/f57e1700-9d6d-4f9c-8528-efcd7808ea34" />
