@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola soy Carolina Moncada 👋
+
+
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/f57e1700-9d6d-4f9c-8528-efcd7808ea34" />
 
 <!--
 **estephaniemoncada-cell/estephaniemoncada-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
