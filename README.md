@@ -1,60 +1,87 @@
 <div align="center">
 
-<h1>👋 Hola, soy Carolina Moncada</h1>
+# 👋 Carolina Moncada  
+### 🌎 Ingeniera Ambiental | 📊 Data Analyst | 🌱 Sustainability & Analytics
 
-<h3>🌎 Ingeniera Ambiental | 📊 Data Analyst | 🌱 Sostenibilidad</h3>
-
-<img width="750" alt="Banner"
+<img width="750"
 src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d483089" />
 
 </div>
 
 ---
 
-## 🌱 Sobre mí
+## 🧭 Perfil Profesional
 
 <p align="center">
-Ingeniera Ambiental con experiencia en análisis de indicadores operativos, seguridad, salud ocupacional y desempeño ambiental en proyectos de construcción e infraestructura.
+Ingeniera Ambiental especializada en análisis de datos, automatización de reportes y desarrollo de dashboards para la toma de decisiones estratégicas en entornos operativos, de seguridad y sostenibilidad.
 </p>
 
 <p align="center">
-He trabajado en la gestión de bases de datos operativas, creación de dashboards para KPIs, análisis de riesgos y soporte a la toma de decisiones enfocadas en cumplimiento normativo y mejora continua 📊.
-</p>
-
-<p align="center">
-Aplico herramientas de análisis de datos como <b>SQL, Python y Business Intelligence</b> para transformar datos complejos en información estratégica para la gestión ambiental 🌎.
-</p>
-
-<p align="center">
-He participado en procesos de digitalización y automatización de reportes, mejorando la trazabilidad, calidad y disponibilidad de la información 📈.
+Experiencia en transformación de datos complejos en insights accionables mediante <b>Python, SQL y herramientas de BI</b>, con enfoque en eficiencia operativa, cumplimiento normativo y sostenibilidad ambiental 🌱.
 </p>
 
 ---
 
-## 🛠️ Herramientas y tecnologías
+## 🛠️ Stack Analítico
 
 <p align="center">
+
 🐍 Python &nbsp; | &nbsp; 🗄️ SQL &nbsp; | &nbsp; 📊 Power BI &nbsp; | &nbsp; 📈 Excel  
-</p>
+<br><br>
+🛰️ GIS / Geospatial Analysis &nbsp; | &nbsp; 📉 Data Visualization &nbsp; | &nbsp; 🤖 Data Modeling  
+<br><br>
+🌎 Environmental Data &nbsp; | &nbsp; 💧 Water & Risk Analysis &nbsp; | &nbsp; ♻️ Sustainability
 
-<p align="center">
-🛰️ GIS / SIG &nbsp; | &nbsp; 📉 Data Analysis &nbsp; | &nbsp; 🤖 Machine Learning  
-</p>
-
-<p align="center">
-🌎 Environmental Data &nbsp; | &nbsp; 💧 Water Resources &nbsp; | &nbsp; ♻️ Sustainability  
 </p>
 
 ---
 
-## 📊 Enfoque profesional
+## 📂 Featured Projects (Portfolio)
 
 <p align="center">
-🌎 Análisis de datos ambientales  
-📊 Visualización de KPIs  
-🌱 Sostenibilidad y medio ambiente  
-📈 Automatización de reportes  
-🔍 Toma de decisiones basada en datos  
+Aquí tienes mis proyectos más representativos en análisis de datos.
+</p>
+
+---
+
+### 📊 KPI Dashboard – Operational & Environmental Performance
+<a href="https://github.com/tuusuario/proyecto1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=github_dark" />
+</a>
+
+---
+
+### 🌎 Environmental Risk Analysis (Python + SQL)
+<a href="https://github.com/tuusuario/proyecto2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=github_dark" />
+</a>
+
+---
+
+### 📉 Automated Reporting System (Power BI + Python)
+<a href="https://github.com/tuusuario/proyecto3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto3&theme=github_dark" />
+</a>
+
+---
+
+### 🌱 Sustainability Metrics & Data Insights
+<a href="https://github.com/tuusuario/proyecto4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto4&theme=github_dark" />
+</a>
+
+---
+
+## 📈 Impacto Profesional
+
+<p align="center">
+
+📊 Desarrollo de dashboards ejecutivos para monitoreo de KPIs  
+🔍 Análisis de datos para identificación de riesgos operativos  
+⚙️ Automatización de reportes y procesos de datos  
+🌱 Soporte en decisiones ambientales basadas en datos  
+📉 Optimización de procesos mediante analítica avanzada  
+
 </p>
 
 ---
@@ -62,15 +89,7 @@ He participado en procesos de digitalización y automatización de reportes, mej
 ## 📫 Contacto
 
 <p align="center">
-💼 LinkedIn | 📧 Email | 🌐 Portfolio (si tienes)
+
+💼 LinkedIn | 📧 Email | 🌐 Portfolio
+
 </p>
-
-</div>n operativa y ambiental 🌱.
-
-He liderado iniciativas de digitalización y automatización de reportes, fortaleciendo la trazabilidad, calidad y disponibilidad de la información para auditorías, seguimiento de indicadores y reportes ejecutivos 📈.
-</p>
-
-</div>
-
-
-
