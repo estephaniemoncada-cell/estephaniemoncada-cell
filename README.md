@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola soy Carolina Moncada 👋 
 
-<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d483089" />
+<img width="800" alt="Banner" src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d483089" />
 
 <!--** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="right">
