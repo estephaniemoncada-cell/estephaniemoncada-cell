@@ -3,10 +3,9 @@
 
 <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d483089" />
 
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
