@@ -36,8 +36,14 @@ He liderado iniciativas de digitalización y automatización de reportes, fortal
 
 
 •	Lenguaje de programación: SQL | Python 📉 
+</p>
+<p align="center">
 •	Análisis estadístico: Pandas | Matplotlib | Seaborn | Numpy | Google Sheets 📈 
+ </p>
+ <p align="center">
 •	Software: Jupyter Notebook | Paqueteria Microsoft | ALOHA  | WindRose ♻️ 🌎
+  </p>
+  <p align="center">
 •	Visualización de datos: Power BI | Tableau 📊 
  
 </p>
@@ -68,10 +74,24 @@ Aquí tienes mis proyectos más representativos en análisis de datos.
 
 ---
 
-### 📉 Movilidad urbana y productividad económica en LATAM - Python | Pandas | NumPy | Seaborn | Matplotlib
+<table>
+<tr>
+<td width="50%">
+<h3>📉 Movilidad urbana y productividad económica en LATAM</h3>
+<p>
+Análisis de patrones de movilidad y su relación con indicadores económicos en ciudades de Latinoamérica.
+</p>
+
+<p>
+<b>Herramientas:</b> Python, Pandas, NumPy, Seaborn, Matplotlib
+</p>
+
 <a href="https://github.com/estephaniemoncada-cell/movilidad_urbana_y_productividad_economica">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto3&theme=github_dark" />
+👉 Ver proyecto completo
 </a>
+</td>
+</tr>
+</table>
 
 ---
 
