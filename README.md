@@ -1,11 +1,10 @@
+
 <div align="center">
 
 # 👋 Carolina Moncada  
 ### 🌎 Environmental Data Analyst | 🌱 ESG Metrics | Python | SQL 📊 
 
-[<img width="750"
-src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d483089" />](https://canva.link/g7wzafwxwtzau0l)
-
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/b19f65cb-f7fd-4965-aede-28253dfc5e4d" />
 </div>
 
 ---
