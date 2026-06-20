@@ -48,7 +48,7 @@ He liderado iniciativas de digitalización y automatización de reportes, fortal
 
 ---
 
-## 📂 Featured Projects (Portfolio)
+## 📂 Featured Projects (Portafolio)
 
 <p align="center">
 Aquí tienes mis proyectos más representativos en análisis de datos.
