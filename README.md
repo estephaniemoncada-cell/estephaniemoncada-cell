@@ -12,19 +12,19 @@ src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d48
 
 ## 🧭 Perfil Profesional
 
-<p align="center">
+<div align="left">
 🌱Ingeniera Ambiental con experiencia en el análisis de indicadores operativos, seguridad, salud ocupacional y desempeño ambiental dentro de proyectos de construcción e infraestructura. 
 </p>
 
-<p align="center">
+<div align="left">
  He gestionado bases de datos operativas, desarrollado dashboards para el monitoreo de KPIs, realizado análisis de riesgos para identificar y proponer medidas de prevención o mitigación y apoyar a la toma de decisiones, el cumplimiento normativo y la mejora continua de los procesos 📊.
 </p>
 
-<p align="center">
+<div align="left">
 🔍 Aplico mis habilidades en análisis de datos utilizando SQL, Python y herramientas de Business Intelligence, a la transformación de datos complejos en información estratégica para la gestión operativa y ambiental. 
 </p>
 
-<p align="center">
+<div align="left">
 He liderado iniciativas de digitalización y automatización de reportes, fortaleciendo la trazabilidad, calidad y disponibilidad de la información para auditorías, seguimiento de indicadores y reportes ejecutivos 📈.
 </p>
 
@@ -32,18 +32,16 @@ He liderado iniciativas de digitalización y automatización de reportes, fortal
 
 ## 🛠️ Habilidades técnicas:
 
-<p align="center">
-
-
+<div align="left">
 •	Lenguaje de programación: SQL | Python 📉 
 </p>
-<p align="center">
+<div align="left">
 •	Análisis estadístico: Pandas | Matplotlib | Seaborn | Numpy | Google Sheets 📈 
  </p>
- <p align="center">
+<div align="left">
 •	Software: Jupyter Notebook | Paqueteria Microsoft | ALOHA  | WindRose ♻️ 🌎
   </p>
-  <p align="center">
+ <div align="left">
 •	Visualización de datos: Power BI | Tableau 📊 
  
 </p>
@@ -57,20 +55,45 @@ Aquí tienes mis proyectos más representativos en análisis de datos.
 </p>
 
 ---
+<table>
+<tr>
+<td width="50%">
+<h3>📊 Analisis | Connectatel - Python | Data Storytelling
+<p>
+Segmentación de clientes, identificación de outliers para identificar el comportamiento de los clientes de una empresa de telecomunicaciones.
+</p>
 
-### 📊 Analisis | Connectatel - Python | Data Storytelling
-<a href="[https://github.com/tuusuario/proyecto1](https://github.com/estephaniemoncada-cell/Analisis_ConnectaTel
-)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=github_dark" />
+<p>
+<b>Herramientas:</b> Python,  Data Storytelling
+</p>
+
+<a href="https://github.com/estephaniemoncada-cell/Analisis_ConnectaTel">
+👉 Ver proyecto completo
 </a>
+</td>
+</tr>
+</table>
 
 ---
+<table>
+<tr>
+<td width="50%">
+<h3>📈  Análisis de embudo y retención | MercadoLibre
+<p>
+Mapee el embudo de conversión completo de Mercado Lbre, identifiqué los principales puntos de fuga, evalué la retención de usuarios por cohortes y propuse mejoras accionables.
+</p>
 
-### 📈  Análisis de embudo y retención | MercadoLibre – SQL | Funnel Analysis | Cohort Analysis
-<a href="[https://github.com/tuusuario/proyecto2](https://github.com/estephaniemoncada-cell/analisis_de_embudo_y_retencion
-)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=github_dark" />
+<p>
+<b>Herramientas:</b> SQL, Funnel Analysis, Cohort Analysis, Google Sheets
+</p>
+
+<a href="https://github.com/estephaniemoncada-cell/analisis_de_embudo_y_retencion">
+👉 Ver proyecto completo
 </a>
+</td>
+</tr>
+</table>
+
 
 ---
 
