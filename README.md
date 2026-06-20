@@ -58,7 +58,7 @@ Aquí tienes mis proyectos más representativos en análisis de datos.
 <table>
 <tr>
 <td width="50%">
-<h3>📊 Analisis | Connectatel - Python | Data Storytelling
+<h3>📊 Analisis | Connectatel - Python | Data Storytelling</h3>
 <p>
 Segmentación de clientes, identificación de outliers para identificar el comportamiento de los clientes de una empresa de telecomunicaciones.
 </p>
@@ -78,7 +78,7 @@ Segmentación de clientes, identificación de outliers para identificar el compo
 <table>
 <tr>
 <td width="50%">
-<h3>📈  Análisis de embudo y retención | MercadoLibre
+<h3>📈  Análisis de embudo y retención | MercadoLibre</h3>
 <p>
 Mapee el embudo de conversión completo de Mercado Lbre, identifiqué los principales puntos de fuga, evalué la retención de usuarios por cohortes y propuse mejoras accionables.
 </p>
