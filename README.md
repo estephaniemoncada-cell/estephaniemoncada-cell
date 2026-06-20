@@ -14,19 +14,19 @@ src="https://github.com/user-attachments/assets/bd94d0e3-f7fc-49cd-9cd5-05d35d48
 
 <div align="left">
 🌱Ingeniera Ambiental con experiencia en el análisis de indicadores operativos, seguridad, salud ocupacional y desempeño ambiental dentro de proyectos de construcción e infraestructura. 
-</p>
+</div>
 
 <div align="left">
  He gestionado bases de datos operativas, desarrollado dashboards para el monitoreo de KPIs, realizado análisis de riesgos para identificar y proponer medidas de prevención o mitigación y apoyar a la toma de decisiones, el cumplimiento normativo y la mejora continua de los procesos 📊.
-</p>
+</div>
 
 <div align="left">
 🔍 Aplico mis habilidades en análisis de datos utilizando SQL, Python y herramientas de Business Intelligence, a la transformación de datos complejos en información estratégica para la gestión operativa y ambiental. 
-</p>
+</div>
 
 <div align="left">
 He liderado iniciativas de digitalización y automatización de reportes, fortaleciendo la trazabilidad, calidad y disponibilidad de la información para auditorías, seguimiento de indicadores y reportes ejecutivos 📈.
-</p>
+</div>
 
 ---
 
@@ -34,17 +34,17 @@ He liderado iniciativas de digitalización y automatización de reportes, fortal
 
 <div align="left">
 •	Lenguaje de programación: SQL | Python 📉 
-</p>
+</div>
 <div align="left">
 •	Análisis estadístico: Pandas | Matplotlib | Seaborn | Numpy | Google Sheets 📈 
- </p>
+ </div>
 <div align="left">
 •	Software: Jupyter Notebook | Paqueteria Microsoft | ALOHA  | WindRose ♻️ 🌎
-  </p>
+</div>
  <div align="left">
 •	Visualización de datos: Power BI | Tableau 📊 
  
-</p>
+</div>
 
 ---
 
