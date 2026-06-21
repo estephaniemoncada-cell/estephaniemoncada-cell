@@ -54,6 +54,27 @@ Aquí tienes mis proyectos más representativos en análisis de datos.
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
+<h3>📊 Emergencias ambientales | Python, PowerBI </h3>
+<p>
+Análisis estadistico que permite identificar entidades con mayores emergencias ambientales y diseñar estrategias de prevención.
+</p>
+
+<p>
+<b>Herramientas:</b> Python, Power BI, Storytelling
+</p>
+
+<a href="https://github.com/estephaniemoncada-cell/Emergencias_ambientales/blob/main/README.md">
+👉 Ver proyecto completo
+</a>
+</td>
+</tr>
+</table>
+
+---
 <table>
 <tr>
 <td width="50%">
